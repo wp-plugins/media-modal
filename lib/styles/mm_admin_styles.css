@@ -1,0 +1,122 @@
+#mm-admin pre {
+	background-color: #efefef !important;
+	padding: 15px !important;
+	white-space: normal !important;
+
+}
+
+#mm-admin h3 {
+	color: #3a5795;
+}
+
+#mm-admin input[type="text"] {
+	padding: 8px;
+	border-radius: 2px;
+}
+
+#mm-admin form {
+	padding: 20px;
+	background-color: #fff;
+	margin-top: 10px;	
+}
+
+#mm-admin .label {
+	font-weight: bold;
+	color: #133783;
+}
+
+#mm-admin .table {
+	width: 100%;
+}
+
+#mm-admin .table tr td {
+	padding: 10px;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+
+#mm-admin .table {
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+}
+
+#mm-admin #gopro {
+	text-align: center;
+	margin-top: 20px;
+	background-color: #3a5795;
+}
+
+#mm-admin #gopro:hover {
+	background-color: #133783;
+	color: #fff;
+}
+
+#mm-admin a {
+	text-decoration: none;
+}
+
+.btn {
+	padding: 10px;
+	font-size: 14px;
+	background-color: #fbb450;
+	border: none;
+	border-radius: 3px;
+	color: #fff;
+	cursor: pointer;
+	display: block;
+}
+
+.btn:hover {
+	background-color: #FAA227;
+}
+
+#mm-admin-main, #mm-admin-side {
+	float: left;
+	display: block;
+}
+
+#mm-admin-main {
+	width: 40%;
+	padding-right: 2%;
+	border-right: 1px dashed #ddd;
+}
+
+#mm-admin-side {
+	width: 50%;
+	padding-left: 2%;
+}
+
+.mm-admin-clearfix {
+	clear: both;
+}
+
+#medialmodal-authorbox {
+	padding: 13px;
+	background-color: #efefef;
+}
+
+#medialmodal-authorbox #jumpstartlogo {
+	width: 260px;
+	display: block;
+	float: left;
+	margin-right: 30px;
+}
+
+#medialmodal-authorbox h3 {
+	margin: 0px 0px 10px 0px;
+	text-align: center;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ddd;
+}
+
+#medialmodal-authorbox #jumpstartlogo img {
+	width: 100%;
+}
+
+#medialmodal-authorbox #details {
+	float: left;
+}
+
+#medialmodal-authorbox #details p {
+	margin: 0px;
+}
