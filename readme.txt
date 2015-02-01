@@ -7,11 +7,11 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Embed or open (through modal) your media, video or mp3 links using Media Modal shortcodes with ease.
+Embed or open (through modal) your video links or audio (mp3 or wav) files using Media Modal shortcodes with ease.
 
 == Description ==
 
-Embed or open (through modal) your media, video or mp3 links using Media Modal shortcodes with ease.
+Embed or open (through modal) your video links or audio (mp3 or wav) files using Media Modal shortcodes with ease.
 
 This plugin provides ease to embed or open (through modal) your media links to your sites. It's easy to implement and has basic documentation for efficient use. You can modify the modal's dimension and color. And neither the generated button by the shortcode sytax.
 
@@ -37,8 +37,8 @@ Supported video site links:
 NEW! 
 Supports mp3 and wav file:
 
-For ver1.0.3
-- Will create various style for audio file player.
+For ver1.1
+- Will create various style for audio file and video player.
 
 = Shortcodes =
 [Check documentation here](http://mediamodal.jumpstartcreatives.com/)

@@ -64,7 +64,7 @@ function mm_options_page(){
 					<img src="<?php echo plugin_dir_url( __FILE__ ) . 'img/Jumpstart-Logo.png'; ?>">
 				</a>
 				<div id="details">
-					<p><strong>Version:</strong>&nbsp;1.0</p>
+					<p><strong>Version:</strong>&nbsp;1.0.2</p>
 					<p><strong>Author:</strong>&nbsp;Jumpstart Creatives</p>
 					<p><strong>Github:</strong>&nbsp;<a href="https://github.com/chikolokoy08">chikolokoy08</a></p>
 				</div>
