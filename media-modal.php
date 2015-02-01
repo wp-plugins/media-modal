@@ -3,7 +3,7 @@
 Plugin Name: Media Modal
 Plugin URI: http://mediamodal.jumpstartcreatives.com/
 Description: Provides multiple options for different media that you want to show on a modal.
-Version: 1.0.0
+Version: 1.0.2
 Author: Carlo Andro Mabugay
 Author URI: http://github.com/chikolokoy08
 
