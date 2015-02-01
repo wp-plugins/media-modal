@@ -1,17 +1,17 @@
 === Media Modal ===
 Contributors: cmabugay
-Tags: videos, mp3, modal, embed, image, youtube, vimeo, metacafe, dailymotion, shortcode
+Tags: videos, mp3, wav, audio, modal, embed, image, youtube, vimeo, metacafe, dailymotion, shortcode
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Embed or open (through modal) your media, video or mp3 links using Media Modal shortcodes with ease.
+Embed or open (through modal) your video links or audio (mp3 or wav) files using Media Modal shortcodes with ease.
 
 == Description ==
 
-Embed or open (through modal) your media, video or mp3 links using Media Modal shortcodes with ease.
+Embed or open (through modal) your video links or audio (mp3 or wav) files using Media Modal shortcodes with ease.
 
 This plugin provides ease to embed or open (through modal) your media links to your sites. It's easy to implement and has basic documentation for efficient use. You can modify the modal's dimension and color. And neither the generated button by the shortcode sytax.
 
@@ -22,7 +22,7 @@ Supported video site links:
 *   Metacafe
 *   Dailymotion
 
-Supported video site links on [PRO](http://mediamodal.jumpstartcreatives.com/):
+[PRO](http://mediamodal.jumpstartcreatives.com/) supported video site links:
 *	Screen Yahoo
 *	Vube
 *	Break
@@ -34,20 +34,14 @@ Supported video site links on [PRO](http://mediamodal.jumpstartcreatives.com/):
 *	Ign
 *	CollegHumor
 
-Supported mp3 site links:
-*	For v1.0.1
+NEW! 
+Supports mp3 and wav file:
+
+For ver1.1
+- Will create various style for audio file and video player.
 
 = Shortcodes =
-
-* BUTTON OPENS MEDIA ON MODAL -
-[mediamodal **src**=*"https://www.youtube.com/watch?v=64FG1dt8C9"* **button_text**=*"Youtube Button"* **button_color**=*"#d876ea"* **text_color**=*"#ffffff"*]
-
-* IMAGE BUTTON OPENS MEDIA ON MODAL -
-[mediamodal **src**=*"https://www.youtube.com/watch?v=64FG1dt8C9"* **mm_title**=*"Image title"* **image_as_btn**=*"enable"* **img_src**=*"/path/to/your/image"*]
-
-* MEDIA EMBED -
-[mediamodal src="https://www.youtube.com/watch?v=64FG1dt8C9s" modal="disable"]
-[mediamodal **src**=*"https://www.youtube.com/watch?v=64FG1dt8C9"* **modal**=*"disable"*]
+[Check documentation here](http://mediamodal.jumpstartcreatives.com/)
 
 == Installation ==
 
@@ -75,13 +69,19 @@ Yes. You can visit [here](http://mediamodal.jumpstartcreatives.com/)
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. Modal buttons.
+2. Modal in white for video
+3. Modal with no padding and custom background and text color for video
+4. Embed Audio file and modal buttons
+5. Modal in white for audio
+6. Modal with no padding and custom background and text color for audio
+7. Global Settings
 
 == Changelog ==
 
 = 1.0.0 =
 * First Release
+= 1.0.1 =
+* Supports mp3, wav embed feature and on modal
+* Custom title attribute for modal box titling
+* Fixed iframe and modal body padding issue
