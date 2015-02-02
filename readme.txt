@@ -23,6 +23,7 @@ Supported video site links:
 *   Dailymotion
 
 [PRO](http://mediamodal.jumpstartcreatives.com/) supported video site links:
+
 *	Screen Yahoo
 *	Vube
 *	Break
